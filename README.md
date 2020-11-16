@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br />
 
 ### 🤵 About Me:
 
@@ -16,5 +17,3 @@
 <a href="https://www.linkedin.com/in/dharmjit/">
   <img align="left" alt="Dharmjit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
