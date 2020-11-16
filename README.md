@@ -6,7 +6,7 @@
 ### 🤵 About Me:
 
 - 🔭 Working as Software/Technical Architect.
-- 🌱 Lucky to work on all aspects of softwares raning from development to deployment. 
+- 🌱 Lucky to work on all aspects of softwares ranging from development to deployment. 
 - 👯 An Open Source enthusiast.
 
 
