@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br />
+![](https://komarev.com/ghpvc/?username=dharmjit&color=green)
+
 
 ### 🤵 About Me:
 
-- 🔭 Working as Software Developer/Software Architect.
-- 🌱 Lucky to work on all aspects of softwares ranging from development to deployment. 
+- 🔭 Software Engineer by profession.
+- 🌱 Working on Kubernetes and container technologies these days.
 - 👯 An Open Source enthusiast.
 
 
