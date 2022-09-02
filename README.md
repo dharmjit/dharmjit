@@ -4,7 +4,7 @@
 ### 🤵 About Me:
 
 - 🔭 Software Engineer by profession.
-- 🌱 Working on Kubernetes and container technologies these days.
+- 🌱 Working on Kubernetes Platforms and container technologies these days.
 - 👯 An Open Source enthusiast.
 
 
